@@ -46,7 +46,7 @@ project-folder/
 
 ## Demo
 Here is how the application looks:
-![Currency Converter Screenshot](https://via.placeholder.com/800x400.png?text=Currency+Converter+UI+Screenshot)
+![Currency Converter Screenshot](Screenshot.png)
 
 ## Future Enhancements
 - Integrate a live API for real-time exchange rates.

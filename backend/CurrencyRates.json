@@ -1,0 +1,159 @@
+[
+    {
+        "country_name": "Brazil",
+        "currency": "Real",
+        "exchange_rate_to_dollar": 1.03,
+        "id": "Braun and Sons"
+    },
+    {
+        "country_name": "China",
+        "currency": "Yuan Renminbi",
+        "exchange_rate_to_dollar": 1.81,
+        "id": "Wolf-Kertzmann"
+    },
+    {
+        "country_name": "Vietnam",
+        "currency": "Dong",
+        "exchange_rate_to_dollar": 1.88,
+        "id": "Torphy, Hills and Hoeger"
+    },
+    {
+        "country_name": "Sweden",
+        "currency": "Krona",
+        "exchange_rate_to_dollar": 1.88,
+        "id": "Ritchie-Dibbert"
+    },
+    {
+        "country_name": "Tajikistan",
+        "currency": "Somoni",
+        "exchange_rate_to_dollar": 0.91,
+        "id": "Kuhic Group"
+    },
+    {
+        "country_name": "Philippines",
+        "currency": "Peso",
+        "exchange_rate_to_dollar": 0.68,
+        "id": "Feest-Beahan"
+    },
+    {
+        "country_name": "Egypt",
+        "currency": "Pound",
+        "exchange_rate_to_dollar": 0.72,
+        "id": "Sawayn, Waelchi and Wolf"
+    },
+    {
+        "country_name": "Portugal",
+        "currency": "Euro",
+        "exchange_rate_to_dollar": 1.69,
+        "id": "Howell-Mosciski"
+    },
+    {
+        "country_name": "United States",
+        "currency": "Dollar",
+        "exchange_rate_to_dollar": 1.00,
+        "id": "Okuneva-Lockman"
+    },
+    {
+        "country_name": "Yemen",
+        "currency": "Rial",
+        "exchange_rate_to_dollar": 1.41,
+        "id": "Goyette, Waters and Pfeffer"
+    },
+    {
+        "country_name": "Poland",
+        "currency": "Zloty",
+        "exchange_rate_to_dollar": 0.81,
+        "id": "Bogisich Inc"
+    },
+    {
+        "country_name": "Indonesia",
+        "currency": "Rupiah",
+        "exchange_rate_to_dollar": 1.96,
+        "id": "Hansen-Pollich"
+    },
+    {
+        "country_name": "Venezuela",
+        "currency": "Bolivar",
+        "exchange_rate_to_dollar": 1.56,
+        "id": "Hilll, Willms and Treutel"
+    },
+    {
+        "country_name": "Czech Republic",
+        "currency": "Koruna",
+        "exchange_rate_to_dollar": 0.90,
+        "id": "Bogisich, Kuhic and Sipes"
+    },
+    {
+        "country_name": "France",
+        "currency": "Euro",
+        "exchange_rate_to_dollar": 1.65,
+        "id": "O'Reilly-Will"
+    },
+    {
+        "country_name": "Russia",
+        "currency": "Ruble",
+        "exchange_rate_to_dollar": 1.20,
+        "id": "Koss-Turner"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "currency": "Som",
+        "exchange_rate_to_dollar": 0.61,
+        "id": "Powlowski, Toy and Marquardt"
+    },
+    {
+        "country_name": "South Korea",
+        "currency": "Won",
+        "exchange_rate_to_dollar": 1.56,
+        "id": "Waters Inc"
+    },
+    {
+        "country_name": "Mongolia",
+        "currency": "Tugrik",
+        "exchange_rate_to_dollar": 1.70,
+        "id": "Beer, Lebsack and Lockman"
+    },
+    {
+        "country_name": "Iran",
+        "currency": "Rial",
+        "exchange_rate_to_dollar": 1.84,
+        "id": "Rutherford Inc"
+    },
+    {
+        "country_name": "Colombia",
+        "currency": "Peso",
+        "exchange_rate_to_dollar": 1.88,
+        "id": "O'Keefe-Stokes"
+    },
+    {
+        "country_name": "Zambia",
+        "currency": "Kwacha",
+        "exchange_rate_to_dollar": 0.86,
+        "id": "Runolfsson, Crist and Goodwin"
+    },
+    {
+        "country_name": "Western Sahara",
+        "currency": "Dirham",
+        "exchange_rate_to_dollar": 1.41,
+        "id": "Smith-Keebler"
+    },
+    {
+        "country_name": "Ecuador",
+        "currency": "Dollar",
+        "exchange_rate_to_dollar": 1.94,
+        "id": "Swaniawski LLC"
+    },
+    {
+        "country_name": "India",
+        "currency": "Rupee",
+        "exchange_rate_to_dollar": 0.012,
+        "id": "India Inc"
+    },
+    
+    {
+        "country_name": "Bangladesh",
+        "currency": "Taka",
+        "exchange_rate_to_dollar": 0.0092,
+        "id": "Bangladesh Pvt Ltd"
+    }
+]
